@@ -30,6 +30,10 @@ body {
 #logo {
     width: 160px;
 }
+
+#logo:hover{    
+    transform: rotate(-10deg) scale(1.0);
+}
 #acess1 {
     color: white;
     font-size: 20px;

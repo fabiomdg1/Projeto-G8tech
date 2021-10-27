@@ -37,16 +37,17 @@ $(document).ready(function () {
 
     // Função para acessibilidade
     $("#acess1").on("click", () => {
-        $(".descricaoSN").toggleClass("aumentardescricaoSN");
-        $("h1").toggleClass("aumentarH1");
-        $("h2").toggleClass("aumentarH2");
-        $("h3").toggleClass("aumentarH3");
-        $(".descricao").toggleClass("aumentarDescricao");
-        $("p").toggleClass("aumentarP");
-        $("a").toggleClass("aumentarA");
-        $("#acess1").toggleClass("aumentarTexto");
-        $(".menu").toggleClass("aumentarMenu");
-        $(".footer").toggleClass("aumentarFooter")
+        // // $(".descricaoSN").toggleClass("aumentardescricaoSN");
+        // $("h1").toggleClass("aumentarH1");
+        // $("h2").toggleClass("aumentarH2");
+        // $("h3").toggleClass("aumentarH3");
+        // // $(".descricao").toggleClass("aumentarDescricao");
+        // $("p").toggleClass("aumentarP");
+        // $("a").toggleClass("aumentarA");
+        // $("#acess1").toggleClass("aumentarTexto");
+        // $(".menu").toggleClass("aumentarMenu");
+        // $(".footer").toggleClass("aumentarFooter")
+        $("section, .menu, .footer, #acess1").toggleClass("zoom01")
     });
 
     // Função para criação de scroll no card na versão tablet
