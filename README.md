@@ -29,4 +29,4 @@ Desafio de HTML, CSS, JAVASCRIPT , JQUERY proposto pela <strong>Soul Code</stron
 
 ---
 
-Copyright - 2021 Jordan, Danyllo, Fabio, Eduardo, | SoulCode Challenge
+Copyright - 2021 Fabio, Lucas, Carol, André, Geysa | SoulCode Challenge
